@@ -62,6 +62,7 @@ li {
   top: -34px;
 }
 
-.weather-temperature img .weather-temperature {
+.weather-temperature img,
+.weather-temperature > div {
   display: inline-block;
 }
