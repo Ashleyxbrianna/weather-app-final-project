@@ -68,13 +68,3 @@ li::first-letter {
 .weather-temperature .active:hover {
   text-decoration: none;
 }
-
-.weather-temperature .fahrenheit-link {
-  cursor: default;
-  text-decoration: none;
-}
-
-.weather-temperature .fahrenheit-link:hover {
-  
-  text-decoration: none;
-
