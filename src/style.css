@@ -58,3 +58,23 @@ li::first-letter {
   line-height: 1;
   font-weight: 400;
 }
+
+.weather-temperature .active {
+  color: rgb(33, 33, 33);
+  cursor: default;
+  text-decoration: none;
+}
+
+.weather-temperature .active:hover {
+  text-decoration: none;
+}
+
+.weather-temperature .fahrenheit-link {
+  cursor: default;
+  text-decoration: none;
+}
+
+.weather-temperature .fahrenheit-link:hover {
+  
+  text-decoration: none;
+
